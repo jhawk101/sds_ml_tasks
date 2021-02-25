@@ -61,6 +61,7 @@ threadpoolctl==2.1.0
 tornado==6.1
 traitlets==4.3.3
 wcwidth==0.2.5
+seaborn
 webencodings==0.5.1
 widgetsnbextension==3.5.1
 zipp==3.4.0
